@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Jeffrey 👋
 
-<!--
-**WoodyDark/WoodyDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Tastebean. I work mostly with Ruby on Rails and Vue.
 
-Here are some ideas to get you started:
+My rule of thumb for software engineering:
+- Convention over configuration!
+- Finite State Machines wherever possible!
+- Abstract complexity responsibly!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some other tools/stacks that I'd love to work more with:
+- Elixir/Phoenix
+- Crystal lang
+- Ionic/Capacitor
+- Flutter
