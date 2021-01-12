@@ -4,7 +4,6 @@ Software Engineer at Tastebean. I work mostly with Ruby on Rails and Vue.
 
 My rule of thumb for software engineering:
 - Convention over configuration!
-- Finite State Machines wherever possible!
 - Abstract complexity responsibly!
 
 Some other tools/stacks that I'd love to work more with:
