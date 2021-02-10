@@ -3,7 +3,7 @@ Software Engineer at Tastebean. I work primarily with Ruby on Rails and Vue.js b
 
 ----
 
-Currently active projects:
+## Currently active projects
 ### [Tastebean](https://www.tastebean.com) (Author)
 Restaurant Management SaaS.
 
@@ -18,12 +18,14 @@ OpenPromises is an open-source effort to track the promises of the Malaysian gov
 
 ----
 
-Tools/stacks that I'd love to work with more:
+## Tools/stacks that I'd love to work with more
 - Elixir/Phoenix
 - Crystal lang
 - Ionic/Capacitor
 - Flutter
 - Electron
+
+----
 
 ## Special Shoutout
 - [NEXT Academy - The coding bootcamp that gave me the opportunity](https://www.nextacademy.com/)
