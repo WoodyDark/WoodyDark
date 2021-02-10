@@ -1,12 +1,22 @@
 ### Hello! I'm Jeffrey 👋
-Software Engineer at Tastebean. I work primarily with Ruby on Rails and Vue.js but regularly explore other technologies. I'm also a huge fan of OSS 👨‍💻
+Software Engineer at Tastebean. I work primarily with Ruby on Rails and Vue.js but regularly explore other technologies. I'm also a huge fan of open-source software! Find me on [NPM JS](https://www.npmjs.com/~woodydark), [RubyGems](https://rubygems.org/profiles/woodydark), and [StackOverflow](https://stackoverflow.com/users/10948615/mysterywood)
 
-## Currently authoring & maintaining
-### Tastebean
-Restaurant Management SaaS
+----
 
-### [VueCharge (NPM Package)](https://www.npmjs.com/package/vue-charge)
-A collection of mostly renderless Vue components to supercharge the development of Vue projects. The components primarily focuses on abstracting state management, or improving accessibilty for keyboard users.
+Currently active projects:
+### [Tastebean](https://www.tastebean.com) (Author)
+Restaurant Management SaaS.
+
+### [VueCharge](https://www.npmjs.com/package/vue-charge) (Author)
+A collection of render-less Vue components to supercharge the development of Vue projects. The components primarily focus on abstracting state management or improving accessibility for keyboard users.
+
+### [VEasyDialog](https://www.npmjs.com/package/v-easy-dialog) (Author)
+An accessible Vue 2 Dialog.
+
+### [OpenPromisesMY](https://www.openpromises.com/) (Volunteer)
+OpenPromises is an open-source effort to track the promises of the Malaysian government.
+
+----
 
 Tools/stacks that I'd love to work with more:
 - Elixir/Phoenix
